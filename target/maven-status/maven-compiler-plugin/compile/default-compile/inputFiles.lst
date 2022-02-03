@@ -1,0 +1,10 @@
+/Users/speriy403/Documents/Spring_MVC_workspace/Ecom_XML_Configuration/src/main/java/com/comcast/entity/ProductEntity.java
+/Users/speriy403/Documents/Spring_MVC_workspace/Ecom_XML_Configuration/src/main/java/com/comcast/controller/ProductController.java
+/Users/speriy403/Documents/Spring_MVC_workspace/Ecom_XML_Configuration/src/main/java/com/comcast/controller/OrderController.java
+/Users/speriy403/Documents/Spring_MVC_workspace/Ecom_XML_Configuration/src/main/java/com/comcast/bean/Product.java
+/Users/speriy403/Documents/Spring_MVC_workspace/Ecom_XML_Configuration/src/main/java/com/comcast/dao/ProductDao.java
+/Users/speriy403/Documents/Spring_MVC_workspace/Ecom_XML_Configuration/src/main/java/com/comcast/controller/UserController.java
+/Users/speriy403/Documents/Spring_MVC_workspace/Ecom_XML_Configuration/src/main/java/com/comcast/service/ProductService.java
+/Users/speriy403/Documents/Spring_MVC_workspace/Ecom_XML_Configuration/src/main/java/com/comcast/serviceimpl/ProductServiceImpl.java
+/Users/speriy403/Documents/Spring_MVC_workspace/Ecom_XML_Configuration/src/main/java/com/comcast/daoimpl/ProductDaoImpl.java
+/Users/speriy403/Documents/Spring_MVC_workspace/Ecom_XML_Configuration/src/main/java/com/comcast/controller/ajax/ProductAjaxController.java
